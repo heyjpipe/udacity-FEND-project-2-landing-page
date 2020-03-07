@@ -6,9 +6,12 @@ HTML, CSS, Javascript
 
 ## File Structure
 
-index.html
-README.md
-css
-style.css
-js
-app.js
+-index.html
+
+-README.md
+
+-css
+  -style.css
+
+-js
+  -app.js
